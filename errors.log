@@ -17,3 +17,4 @@
 {"level":"fatal","message":"fatal"}
 {"level":"error","message":"Error: Product creation error: Error trying to create product"}
 {"level":"error","message":"Error: Product creation error: Error trying to create product"}
+{"level":"warning","message":"User doesn't exists"}
